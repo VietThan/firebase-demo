@@ -1,4 +1,6 @@
-# Getting Started with Create React App
+# Chat room with firebase
+
+[Fireship tutorial](https://www.youtube.com/watch?v=zQyrwxMPm88)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
